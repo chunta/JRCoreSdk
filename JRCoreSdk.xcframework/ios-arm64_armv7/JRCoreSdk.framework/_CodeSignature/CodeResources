@@ -4,21 +4,96 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/JRCoreSdk-Swift.h</key>
+		<data>
+		m+eCIyOw/KvRdM7x7FAx5o8VLPM=
+		</data>
 		<key>Headers/JRCoreSdk.h</key>
 		<data>
 		AIXLvetcmGzI7idJpr/nE3XdfA8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XW3q/+u2ikr8GBUnzmnvXvQCS6Q=
+		G4IJk6a3droExdDBuONAkuy/u0M=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/arm.swiftdoc</key>
+		<data>
+		AI4pe8vwfRLiW2G0REqn+xm7ppk=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/arm.swiftinterface</key>
+		<data>
+		G3CQ6sCISKy9m/CGIXeWJESoBvY=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/arm.swiftmodule</key>
+		<data>
+		4lEcAj6YJIKLXrcwPe4Z1TcUqgw=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		SSxBYg3beNib1ZOyuSryNpfz41g=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		bpKfS6AjIf2H/cIw4B1/u+GA3Os=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		si/p6Eg904kJtrk8t6crOibCPW0=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		SSxBYg3beNib1ZOyuSryNpfz41g=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		bpKfS6AjIf2H/cIw4B1/u+GA3Os=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		si/p6Eg904kJtrk8t6crOibCPW0=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		AI4pe8vwfRLiW2G0REqn+xm7ppk=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7-apple-ios.swiftinterface</key>
+		<data>
+		G3CQ6sCISKy9m/CGIXeWJESoBvY=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		4lEcAj6YJIKLXrcwPe4Z1TcUqgw=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		AI4pe8vwfRLiW2G0REqn+xm7ppk=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7.swiftinterface</key>
+		<data>
+		G3CQ6sCISKy9m/CGIXeWJESoBvY=
+		</data>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		4lEcAj6YJIKLXrcwPe4Z1TcUqgw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		QOsNQHwkuUOLvsV/Kljdem/zKQ0=
+		SwmhDq3o7F2RLRqonlc4K8Hf/v4=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/JRCoreSdk-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m+eCIyOw/KvRdM7x7FAx5o8VLPM=
+			</data>
+			<key>hash2</key>
+			<data>
+			bHDGlRcpBnVQDXKTYRkvPY+bVxJVG/B8/EJr15ZI/EY=
+			</data>
+		</dict>
 		<key>Headers/JRCoreSdk.h</key>
 		<dict>
 			<key>hash</key>
@@ -30,15 +105,180 @@
 			lEM8PHyn/gjhKNi7l/GD8BpSxEiTPvKQACzSa4ZEXdI=
 			</data>
 		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/arm.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AI4pe8vwfRLiW2G0REqn+xm7ppk=
+			</data>
+			<key>hash2</key>
+			<data>
+			JlGPlrzx0MZYiwc7qGEwky9xyJdP7A3kAgO81xFqtZM=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/arm.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G3CQ6sCISKy9m/CGIXeWJESoBvY=
+			</data>
+			<key>hash2</key>
+			<data>
+			3ZW/1bd/SKYc7Us58Zvq8ppTmNRfxLKaKkYaGsRBvfw=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/arm.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4lEcAj6YJIKLXrcwPe4Z1TcUqgw=
+			</data>
+			<key>hash2</key>
+			<data>
+			35axR3qt9VymcZ4vLOWFmVl+EBMx+96Ey//ijfNzdPM=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SSxBYg3beNib1ZOyuSryNpfz41g=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZdRqYqGij1/I0HeLvvT1GAWorHoerhxanRnb3tgpsrA=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bpKfS6AjIf2H/cIw4B1/u+GA3Os=
+			</data>
+			<key>hash2</key>
+			<data>
+			ikD8wyT6BmsNYF+iSxGBEt3aoVkLFaaBUY6mJ5gcELA=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			si/p6Eg904kJtrk8t6crOibCPW0=
+			</data>
+			<key>hash2</key>
+			<data>
+			bffc/d6O0jWD9LWDqsjcgtowkGjOS9Wse9ZF3fgg6aE=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SSxBYg3beNib1ZOyuSryNpfz41g=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZdRqYqGij1/I0HeLvvT1GAWorHoerhxanRnb3tgpsrA=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bpKfS6AjIf2H/cIw4B1/u+GA3Os=
+			</data>
+			<key>hash2</key>
+			<data>
+			ikD8wyT6BmsNYF+iSxGBEt3aoVkLFaaBUY6mJ5gcELA=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			si/p6Eg904kJtrk8t6crOibCPW0=
+			</data>
+			<key>hash2</key>
+			<data>
+			bffc/d6O0jWD9LWDqsjcgtowkGjOS9Wse9ZF3fgg6aE=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AI4pe8vwfRLiW2G0REqn+xm7ppk=
+			</data>
+			<key>hash2</key>
+			<data>
+			JlGPlrzx0MZYiwc7qGEwky9xyJdP7A3kAgO81xFqtZM=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G3CQ6sCISKy9m/CGIXeWJESoBvY=
+			</data>
+			<key>hash2</key>
+			<data>
+			3ZW/1bd/SKYc7Us58Zvq8ppTmNRfxLKaKkYaGsRBvfw=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4lEcAj6YJIKLXrcwPe4Z1TcUqgw=
+			</data>
+			<key>hash2</key>
+			<data>
+			35axR3qt9VymcZ4vLOWFmVl+EBMx+96Ey//ijfNzdPM=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AI4pe8vwfRLiW2G0REqn+xm7ppk=
+			</data>
+			<key>hash2</key>
+			<data>
+			JlGPlrzx0MZYiwc7qGEwky9xyJdP7A3kAgO81xFqtZM=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G3CQ6sCISKy9m/CGIXeWJESoBvY=
+			</data>
+			<key>hash2</key>
+			<data>
+			3ZW/1bd/SKYc7Us58Zvq8ppTmNRfxLKaKkYaGsRBvfw=
+			</data>
+		</dict>
+		<key>Modules/JRCoreSdk.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4lEcAj6YJIKLXrcwPe4Z1TcUqgw=
+			</data>
+			<key>hash2</key>
+			<data>
+			35axR3qt9VymcZ4vLOWFmVl+EBMx+96Ey//ijfNzdPM=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QOsNQHwkuUOLvsV/Kljdem/zKQ0=
+			SwmhDq3o7F2RLRqonlc4K8Hf/v4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ynPjLiCZDTBufWQY1EWWgMod4Ke4JR0LcxPVBYyuAqE=
+			TEEZqHC78hbnjmNk9oKQMEgTSaJmMhQcoHr28hGqm9U=
 			</data>
 		</dict>
 	</dict>

@@ -4,3 +4,8 @@ framework module JRCoreSdk {
   export *
   module * { export * }
 }
+
+module JRCoreSdk.Swift {
+    header "JRCoreSdk-Swift.h"
+    requires objc
+}
