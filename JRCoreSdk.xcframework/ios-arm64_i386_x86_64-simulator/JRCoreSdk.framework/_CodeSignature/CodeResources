@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/JRCoreCrashSender.h</key>
+		<data>
+		X6Mybb1+6gxTwg79RLvGTUgj4NU=
+		</data>
 		<key>Headers/JRCoreSdk.h</key>
 		<data>
 		AIXLvetcmGzI7idJpr/nE3XdfA8=
@@ -19,6 +23,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/JRCoreCrashSender.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X6Mybb1+6gxTwg79RLvGTUgj4NU=
+			</data>
+			<key>hash2</key>
+			<data>
+			/03gPmDVB1B4XU9arBQTrJHCdu+QXxeKXyG9GKUkIvk=
+			</data>
+		</dict>
 		<key>Headers/JRCoreSdk.h</key>
 		<dict>
 			<key>hash</key>
