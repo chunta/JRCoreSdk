@@ -211,7 +211,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC9JRCoreSdk12JRCoreLogger")
 @interface JRCoreLogger : NSObject
-- (void)log:(NSString * _Nonnull)message;
+- (void)logWithMessage:(NSString * _Nonnull)message;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -433,7 +433,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC9JRCoreSdk12JRCoreLogger")
 @interface JRCoreLogger : NSObject
-- (void)log:(NSString * _Nonnull)message;
+- (void)logWithMessage:(NSString * _Nonnull)message;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
