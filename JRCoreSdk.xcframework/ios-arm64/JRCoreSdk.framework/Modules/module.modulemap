@@ -1,6 +1,0 @@
-framework module JRCoreSdk {
-  umbrella header "JRCoreSdk.h"
-
-  export *
-  module * { export * }
-}
