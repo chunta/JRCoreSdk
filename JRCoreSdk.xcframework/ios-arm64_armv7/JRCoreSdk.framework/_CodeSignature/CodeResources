@@ -4,17 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/JRCoreCrashSender.h</key>
-		<data>
-		X6Mybb1+6gxTwg79RLvGTUgj4NU=
-		</data>
 		<key>Headers/JRCoreSdk.h</key>
 		<data>
-		lEL+WdIWO3NIdlKOBgMBgAP/qrs=
+		AIXLvetcmGzI7idJpr/nE3XdfA8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bTwQElPnkatbUWAGG951v4zHKOE=
+		XW3q/+u2ikr8GBUnzmnvXvQCS6Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,26 +19,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/JRCoreCrashSender.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			X6Mybb1+6gxTwg79RLvGTUgj4NU=
-			</data>
-			<key>hash2</key>
-			<data>
-			/03gPmDVB1B4XU9arBQTrJHCdu+QXxeKXyG9GKUkIvk=
-			</data>
-		</dict>
 		<key>Headers/JRCoreSdk.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lEL+WdIWO3NIdlKOBgMBgAP/qrs=
+			AIXLvetcmGzI7idJpr/nE3XdfA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gum3dVAZuiXJOWTcBtryQeLhNBtCo2hL/+SP7f+6Ak8=
+			lEM8PHyn/gjhKNi7l/GD8BpSxEiTPvKQACzSa4ZEXdI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
