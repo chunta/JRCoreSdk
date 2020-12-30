@@ -4,13 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/JRCoreLogger.h</key>
-		<data>
-		E8WyVp8EdAhhmZiHeV7nGChYdpE=
-		</data>
 		<key>Headers/JRCoreSdk.h</key>
 		<data>
-		TPEpfF6LZYPf4Qqkp3/SNXEfTWY=
+		AIXLvetcmGzI7idJpr/nE3XdfA8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -23,26 +19,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/JRCoreLogger.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			E8WyVp8EdAhhmZiHeV7nGChYdpE=
-			</data>
-			<key>hash2</key>
-			<data>
-			3E1pOzYfknj/USReFq0+UY1FgIZgr2Hut4IxWINNyA4=
-			</data>
-		</dict>
 		<key>Headers/JRCoreSdk.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TPEpfF6LZYPf4Qqkp3/SNXEfTWY=
+			AIXLvetcmGzI7idJpr/nE3XdfA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			zmgcT5Mb8u8uFLpiRJtOtJPb9nXZS/4DejHOrbvkouA=
+			lEM8PHyn/gjhKNi7l/GD8BpSxEiTPvKQACzSa4ZEXdI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
