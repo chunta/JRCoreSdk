@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/JRCoreSdk-Swift.h</key>
 		<data>
-		ZRMrX+S3DatGlmdQPU1JgTfvEIY=
+		weX1EPyoxqUoK0UMi4u6fR1fDK8=
 		</data>
 		<key>Headers/JRCoreSdk.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Iu1iCQRcHVPyArij7LvNmQw8Fss=
+		FIHKWw+Dr6PrR/hmDROflqEGPuo=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ljZF14Fm7ivSy6ufwAoMMQkQ6nc=
+		sIzyG7ZmNkuB/I/+eZdF3gkVA3c=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		Iu1iCQRcHVPyArij7LvNmQw8Fss=
+		FIHKWw+Dr6PrR/hmDROflqEGPuo=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ljZF14Fm7ivSy6ufwAoMMQkQ6nc=
+		sIzyG7ZmNkuB/I/+eZdF3gkVA3c=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Uu6StzFRF7Jyy+JwaSHAtOiYq+Q=
+		u25sZkFUfDmOG5lvqbnJCC0wAdk=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6KV3FsW5pSQVJ6mzvPgtkUeIMfU=
+		JrwHzHJL1Qf1bt3xobbfFfTi1VU=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/i386.swiftinterface</key>
 		<data>
-		Uu6StzFRF7Jyy+JwaSHAtOiYq+Q=
+		u25sZkFUfDmOG5lvqbnJCC0wAdk=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/i386.swiftmodule</key>
 		<data>
-		6KV3FsW5pSQVJ6mzvPgtkUeIMfU=
+		JrwHzHJL1Qf1bt3xobbfFfTi1VU=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -70,11 +70,11 @@
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		J4EzKh57dg9pDQu/OUqVe0AhLNo=
+		RQoFiXD7iBHGAEi/tYC7L4WN4yE=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FwlELXFHZUJ/I4CXYSD0Xsr44I0=
+		FwEI/tXylVGsjmWsYYQS1hP834I=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		J4EzKh57dg9pDQu/OUqVe0AhLNo=
+		RQoFiXD7iBHGAEi/tYC7L4WN4yE=
 		</data>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		FwlELXFHZUJ/I4CXYSD0Xsr44I0=
+		FwEI/tXylVGsjmWsYYQS1hP834I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZRMrX+S3DatGlmdQPU1JgTfvEIY=
+			weX1EPyoxqUoK0UMi4u6fR1fDK8=
 			</data>
 			<key>hash2</key>
 			<data>
-			h7f3JOpqBCztYuPkYo39+qDSHLJOAn8/TZUknx/dS7o=
+			vS3k0QEOnYaRbKpTjzIlcS8eLQVHdiUuHIz7lG/+ZWQ=
 			</data>
 		</dict>
 		<key>Headers/JRCoreSdk.h</key>
@@ -132,22 +132,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Iu1iCQRcHVPyArij7LvNmQw8Fss=
+			FIHKWw+Dr6PrR/hmDROflqEGPuo=
 			</data>
 			<key>hash2</key>
 			<data>
-			jyzakOL0uA4DFUxi1SUpSNaptHO/IqBMdR3R6zi7xJM=
+			RAf4exyYMW/Ap8flgy+dpzhRRmYM3Y4SPxykUYkqkhc=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ljZF14Fm7ivSy6ufwAoMMQkQ6nc=
+			sIzyG7ZmNkuB/I/+eZdF3gkVA3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			vtAAFtGrop6BFmmoZYJTeBk2rNYfOR12p536H4CC0u4=
+			pqtOXvPtVBxoL4+Xkj8+ej7L1u1qXrUMntNIo5lfyl4=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftdoc</key>
@@ -165,22 +165,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Iu1iCQRcHVPyArij7LvNmQw8Fss=
+			FIHKWw+Dr6PrR/hmDROflqEGPuo=
 			</data>
 			<key>hash2</key>
 			<data>
-			jyzakOL0uA4DFUxi1SUpSNaptHO/IqBMdR3R6zi7xJM=
+			RAf4exyYMW/Ap8flgy+dpzhRRmYM3Y4SPxykUYkqkhc=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ljZF14Fm7ivSy6ufwAoMMQkQ6nc=
+			sIzyG7ZmNkuB/I/+eZdF3gkVA3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			vtAAFtGrop6BFmmoZYJTeBk2rNYfOR12p536H4CC0u4=
+			pqtOXvPtVBxoL4+Xkj8+ej7L1u1qXrUMntNIo5lfyl4=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -198,22 +198,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Uu6StzFRF7Jyy+JwaSHAtOiYq+Q=
+			u25sZkFUfDmOG5lvqbnJCC0wAdk=
 			</data>
 			<key>hash2</key>
 			<data>
-			p0bxBudL0wGrpwsB/sAMDznafVrQMZ3ZfLEJkRaNEtY=
+			EkGS6kGfQPVJBJ0Ajpj8Qpw2XIBNPvjvQd7YMQi6O/s=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6KV3FsW5pSQVJ6mzvPgtkUeIMfU=
+			JrwHzHJL1Qf1bt3xobbfFfTi1VU=
 			</data>
 			<key>hash2</key>
 			<data>
-			zdmaDuRdFml3AJLShcZssGvPrnopYk1qQCL8M67UQ/U=
+			OGY2w9Wx6CMepSZNRuQnmlc6lgtUKTJ9i1d7cdBIQ8E=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/i386.swiftdoc</key>
@@ -231,22 +231,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Uu6StzFRF7Jyy+JwaSHAtOiYq+Q=
+			u25sZkFUfDmOG5lvqbnJCC0wAdk=
 			</data>
 			<key>hash2</key>
 			<data>
-			p0bxBudL0wGrpwsB/sAMDznafVrQMZ3ZfLEJkRaNEtY=
+			EkGS6kGfQPVJBJ0Ajpj8Qpw2XIBNPvjvQd7YMQi6O/s=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6KV3FsW5pSQVJ6mzvPgtkUeIMfU=
+			JrwHzHJL1Qf1bt3xobbfFfTi1VU=
 			</data>
 			<key>hash2</key>
 			<data>
-			zdmaDuRdFml3AJLShcZssGvPrnopYk1qQCL8M67UQ/U=
+			OGY2w9Wx6CMepSZNRuQnmlc6lgtUKTJ9i1d7cdBIQ8E=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -264,22 +264,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J4EzKh57dg9pDQu/OUqVe0AhLNo=
+			RQoFiXD7iBHGAEi/tYC7L4WN4yE=
 			</data>
 			<key>hash2</key>
 			<data>
-			dEXMZ1ltnXEgk/YksVSX5Grzp/iROJbl4+H2/waE9QE=
+			bvypMo1B10JDTlHePOT1lbkQAh+ZkzFsvGTapBBCIvM=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FwlELXFHZUJ/I4CXYSD0Xsr44I0=
+			FwEI/tXylVGsjmWsYYQS1hP834I=
 			</data>
 			<key>hash2</key>
 			<data>
-			ub9RkNiOsQ6n+NyOH2ohi97p/CCWP/n+FJevml431dU=
+			1zs91ekuL0ruNNGfwdR1dtj308xZuiaqU31WCrQNpuM=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64.swiftdoc</key>
@@ -297,22 +297,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J4EzKh57dg9pDQu/OUqVe0AhLNo=
+			RQoFiXD7iBHGAEi/tYC7L4WN4yE=
 			</data>
 			<key>hash2</key>
 			<data>
-			dEXMZ1ltnXEgk/YksVSX5Grzp/iROJbl4+H2/waE9QE=
+			bvypMo1B10JDTlHePOT1lbkQAh+ZkzFsvGTapBBCIvM=
 			</data>
 		</dict>
 		<key>Modules/JRCoreSdk.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FwlELXFHZUJ/I4CXYSD0Xsr44I0=
+			FwEI/tXylVGsjmWsYYQS1hP834I=
 			</data>
 			<key>hash2</key>
 			<data>
-			ub9RkNiOsQ6n+NyOH2ohi97p/CCWP/n+FJevml431dU=
+			1zs91ekuL0ruNNGfwdR1dtj308xZuiaqU31WCrQNpuM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

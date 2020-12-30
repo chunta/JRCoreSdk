@@ -4,8 +4,8 @@
 @_exported import JRCoreSdk
 import Swift
 import UIKit
-@objc @_inheritsConvenienceInitializers final public class JRCoreLogger : ObjectiveC.NSObject {
-  final public func log(_ message: Swift.String)
+@objc @_inheritsConvenienceInitializers @objcMembers final public class JRCoreLogger : ObjectiveC.NSObject {
+  @objc final public func log(_ message: Swift.String)
   @objc deinit
   @objc override dynamic public init()
 }
